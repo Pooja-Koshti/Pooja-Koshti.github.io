@@ -1,9 +1,11 @@
 const cacheName='v1';
 
 const cacheAssets =[
-    'form.html',
+     'index.html',
+    'about.html',
+    'services.html',
     'main.js',
-    'details.php'
+    'details.php',
 ];
 
 self.addEventListener('install',e=>{
