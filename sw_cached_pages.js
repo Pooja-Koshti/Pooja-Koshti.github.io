@@ -6,6 +6,8 @@ const cacheAssets =[
     'services.html',
     'main.js',
     'details.php',
+     'test_abh.html',
+     'indexm.js'
 ];
 
 self.addEventListener('install',e=>{
